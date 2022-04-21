@@ -1,6 +1,6 @@
  
   body {
-    background-color:#f8f9fa;
+    background-color:#f8f9fa8c;
   }
 
   .img-fluid {
@@ -65,6 +65,10 @@
 
 .App-logo {
     pointer-events: none;
+}
+
+.pointer-cursor {
+  cursor: pointer;
 }
 
 @media (prefers-reduced-motion: no-preference) {
